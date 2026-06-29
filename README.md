@@ -18,9 +18,6 @@ Built on the **xBRZ** algorithm, with a few modifications (see
 | --------------------------- | ------------------------------- |
 | ![Raw pixel art](screenshots/raw.png) | ![xBRZ Sharp HD](screenshots/xbrz.png) |
 
-> Save the two comparison images you have into a `screenshots/` folder next to
-> this README, named `raw.png` (blocky/nearest) and `xbrz.png` (filtered).
-
 ---
 
 ## What's different
